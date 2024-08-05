@@ -1,0 +1,741 @@
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.AssemblyReference.cache
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.AssemblyInfoInputs.cache
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.AssemblyInfo.cs
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.CoreCompileInputs.cache
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.RazorAssemblyInfo.cache
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.RazorAssemblyInfo.cs
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\appsettings.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.staticwebassets.runtime.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.exe
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.deps.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.runtimeconfig.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.pdb
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.prac demo enitity framework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.build.prac demo enitity framework.props
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prac demo enitity framework.props
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prac demo enitity framework.props
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\scopedcss\bundle\prac demo enitity framework.styles.css
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\scopedcss\projectbundle\prac demo enitity framework.bundle.scp.css
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.CopyComplete
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\refint\prac demo enitity framework.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.pdb
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.genruntimeconfig.cache
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\obj\Debug\net6.0\ref\prac demo enitity framework.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yumna Khalid\Desktop\DOT NET\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.AssemblyReference.cache
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.AssemblyInfoInputs.cache
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.AssemblyInfo.cs
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.CoreCompileInputs.cache
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.MvcApplicationPartsAssemblyInfo.cache
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.RazorAssemblyInfo.cache
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.RazorAssemblyInfo.cs
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.dll
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\refint\prac demo enitity framework.dll
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.pdb
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\appsettings.Development.json
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\appsettings.json
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.staticwebassets.runtime.json
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.exe
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.deps.json
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.runtimeconfig.json
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.pdb
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Humanizer.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\MessagePack.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\MessagePack.Annotations.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Common.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Configuration.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Frameworks.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.LibraryModel.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Packaging.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.ProjectModel.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Protocol.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Versioning.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Convention.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Hosting.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Runtime.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.TypedParts.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\af\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ar\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\az\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\bg\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\da\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\el\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fa\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\he\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\hr\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\hu\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\hy\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\id\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\is\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ku\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\lv\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\mt\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\nb\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\nl\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ro\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sk\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sl\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sr\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sv\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\uk\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\vi\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.prac demo enitity framework.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.build.prac demo enitity framework.props
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prac demo enitity framework.props
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prac demo enitity framework.props
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.build.json
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.development.json
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\scopedcss\bundle\prac demo enitity framework.styles.css
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\scopedcss\projectbundle\prac demo enitity framework.bundle.scp.css
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.CopyComplete
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.genruntimeconfig.cache
+Z:\.Net Core\prac demo enitity framework\obj\Debug\net6.0\ref\prac demo enitity framework.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\appsettings.Development.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\appsettings.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.staticwebassets.runtime.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.exe
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.deps.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.runtimeconfig.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\prac demo enitity framework.pdb
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Humanizer.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\MessagePack.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\MessagePack.Annotations.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\Newtonsoft.Json.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Common.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Configuration.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Frameworks.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.LibraryModel.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Packaging.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.ProjectModel.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Protocol.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\NuGet.Versioning.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Convention.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Hosting.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.Runtime.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Composition.TypedParts.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Drawing.Common.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Runtime.Caching.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Security.Permissions.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\System.Windows.Extensions.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\af\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ar\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\az\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\bg\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\da\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\el\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fa\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\he\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\hr\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\hu\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\hy\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\id\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\is\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ku\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\lv\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\mt\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\nb\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\nl\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ro\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sk\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sl\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sr\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\sv\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\uk\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\vi\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.AssemblyReference.cache
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.GeneratedMSBuildEditorConfig.editorconfig
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.AssemblyInfoInputs.cache
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.AssemblyInfo.cs
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.CoreCompileInputs.cache
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.MvcApplicationPartsAssemblyInfo.cache
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.RazorAssemblyInfo.cache
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.RazorAssemblyInfo.cs
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.prac demo enitity framework.Microsoft.AspNetCore.StaticWebAssets.props
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.build.prac demo enitity framework.props
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.prac demo enitity framework.props
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.prac demo enitity framework.props
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.pack.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.build.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\staticwebassets.development.json
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\scopedcss\bundle\prac demo enitity framework.styles.css
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\scopedcss\projectbundle\prac demo enitity framework.bundle.scp.css
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.csproj.CopyComplete
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\refint\prac demo enitity framework.dll
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.pdb
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\prac demo enitity framework.genruntimeconfig.cache
+\\server1\Faculty\Yumna Khalid\.Net Core\prac demo enitity framework\obj\Debug\net6.0\ref\prac demo enitity framework.dll

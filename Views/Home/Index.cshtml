@@ -1,0 +1,83 @@
+﻿@model IEnumerable<prac_demo_enitity_framework.Models.Admin>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-controller="Home" asp-action="AddEmployee" class="btn btn-info btn-outline-primary">ADD NEW EMPLOYEES</a>
+</p>
+
+
+    @if (TempData["success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@TempData["success"]</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+<table class="table">
+    <thead>
+        <tr>
+      
+            <th>
+                AdminId
+            </th>
+            <th>
+             AdminName
+            </th>
+            <th>
+                AdminEmail
+            </th>
+           <th>
+               AdminContact
+@*                @Html.DisplayNameFor(model => model.AdminContact)*@
+            </th>
+            <th>
+                AdminAge
+               @* @Html.DisplayNameFor(model => model.AdminAge)*@
+            </th>
+            <th>
+                AdminImage
+                @* @Html.DisplayNameFor(model => model.AdminAge)*@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @item.AdminId
+                </td>
+            <td>
+                @item.AdminName
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdminEmail)
+            </td>
+           <td>
+                @Html.DisplayFor(modelItem => item.AdminContact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdminAge)
+            </td>
+
+
+
+
+                <td>
+                    <img src="~/Content/Images/@Html.DisplayFor(modelItem => item.AdminImg)" width="50" height="50">
+                   
+                </td>
+            <td>
+
+                <a asp-action="Detail" asp-route-id="@item.AdminId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AdminId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
